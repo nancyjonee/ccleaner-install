@@ -1,11 +1,19 @@
 How to Install CCleaner on Windows in 3 Easy Steps? 🖥️
 ============================================
-  .
-  .
+.
+.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+.. image:: https://trendmicroantivirus.readthedocs.io/en/latest/_images/install.png
+   :alt: My Project Logo
+   :width: 400px
+   :align: center
+   :target: https://softwareinstaller.net/
+______
+
 
 If you're looking to boost your PC’s performance and keep your system clean from unnecessary files, CCleaner is one of the most trusted tools available. Whether you’re a tech enthusiast or a beginner, installing this software doesn’t require much effort. In this comprehensive guide, we’ll show you exactly how to install CCleaner on Windows in just 3 easy steps 🖥️.
 
@@ -46,7 +54,7 @@ _______
 Let’s walk through the process step by step:
 
 1: Download the Installer
-  _______
+_______
 To get started, you need the installation file for CCleaner. Follow these tips:
 
 Open your browser and search for “Download CCleaner for Windows” from the official Piriform website or a reliable source.
